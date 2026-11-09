@@ -85,12 +85,24 @@ My background spans **Scriptable Object pipelines, event-driven architecture, ga
 
 ## 🚀 Project Highlights
 
-### ⚡ \[WIP\] [Project Brotherhood - Turn Based RPG](https://github.com/sujansooriyakumar/SOTB) An independently developed turn based RPG, built from the ground up.
-- Scriptable Object driven inventory system
-- Turn based combat through async event driven architecture
-- Modular event driven UI system
+### ⚡ [Project Brotherhood](https://github.com/sujansooriyakumar/SOTB) · Turn-Based RPG
+![Status](https://img.shields.io/badge/status-WIP-orange?style=flat-square)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 
-`Unity` `C#`
+An independently developed turn-based RPG, built from the ground up. It's a personal sandbox for the architecture patterns I use professionally, with every system designed to be modular, data-driven, and easy to extend.
+
+- 🎒 **Data-driven inventory:** built on a Scriptable Object pipeline, so designers can add items without touching code
+- ⚔️ **Async, event-driven combat:** turn flow runs through asynchronous events, keeping battle logic decoupled from presentation
+- 🧩 **Modular UI:** event-driven UI that reacts to game state instead of polling it, so screens stay independent and reusable
+
+[**View the repo →**](https://github.com/sujansooriyakumar/SOTB)
+
+<!-- Add a screenshot or GIF of combat/inventory here:
+<img src="PATH_TO_GIF" width="600" alt="Project Brotherhood combat preview">
+-->
+
+---
 
 ---
 
