@@ -1,16 +1,160 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**sujansooriyakumar/sujansooriyakumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Sujan Sooriyakumar 👋
 
-Here are some ideas to get you started:
+### Unity / C# Developer · Systems Design · VR & XR · Game Development Instructor
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Email](https://img.shields.io/badge/Email-sujan.sooriyakumar@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sujan.sooriyakumar@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-sujansooriyakumar-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sujansooriyakumar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sujan4493/)
+
+
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Meta Quest](https://img.shields.io/badge/Meta%20Quest-0467DF?style=flat-square&logo=meta&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+
+</div>
+
+---
+
+## 🎮 About Me
+
+I'm a Unity/C# developer who specializes in **systems design and interactive applications**. I've led VR projects for industry clients, shipped titles to the **Meta Quest Store**, and now teach the next generation of game developers.
+
+My background spans **Scriptable Object pipelines, event-driven architecture, gameplay systems, AI, networking, user input, and performance optimization**. I enjoy working across disciplines, partnering with artists, audio engineers, clients, and junior developers from technical design through delivery.
+
+---
+
+## 💼 Experience
+
+| Role | Organization | Dates |
+|------|--------------|-------|
+| **Game Development Instructor** | Northern Alberta Institute of Technology | Sep 2025 – Present |
+| **Senior Unity Developer** | Lethbridge Polytechnic, Spatial Technology Applied Research and Training Center | Oct 2022 – Aug 2025 |
+| **Unity Developer** | Gata Games | Aug 2022 – Oct 2022 |
+| **Unity Developer** | York University, BioMotion Lab | Oct 2021 – Oct 2022 |
+
+<details>
+<summary><b>🎓 Game Development Instructor · NAIT</b></summary>
+<br>
+
+- Teach core game design principles: game loops, design pillars, and engaging player experiences
+- Teach programming for games: data structures, algorithms, debugging, and code optimization
+- Help students refine concepts and translate ideas into working projects
+- Develop students' professional and soft skills for careers in game development
+
+</details>
+
+<details>
+<summary><b>🥽 Senior Unity Developer · Lethbridge Polytechnic (STARTC)</b></summary>
+<br>
+
+- Led development of numerous Unity-based VR projects for industry applications
+- Led technical design of gameplay, game economy, networking, metrics, AI, and user-input systems
+- Collaborated with artists and audio engineers to integrate assets and interactive content
+- Consulted with clients to design and deliver VR solutions aligned with project goals
+- Produced technical and end-user documentation for client handoff and deployment
+- Shipped games and simulations to the **Meta Quest Store**
+
+</details>
+
+<details>
+<summary><b>📱 Unity Developer · Gata Games</b></summary>
+<br>
+
+- Implemented and enhanced game systems while maintaining design intent
+- Developed features for a mobile AR/XR game and optimized existing systems
+- Troubleshot and refined systems with cross-functional teams to improve quality
+
+</details>
+
+<details>
+<summary><b>🔬 Unity Developer · York University BioMotion Lab</b></summary>
+<br>
+
+- Developed AR and VR applications for Windows and iOS using Unity
+- Created VR games and AR telecommunications software designed to simulate authentic eye contact
+- Contributed to research at the intersection of technology and human interaction
+
+</details>
+
+---
+
+## 🚀 Project Highlights
+
+### ⚡ [WIP] Project Brotherhood - Turn Based RPG
+An independently developed turn based RPG, built from the ground up.
+- Scriptable Object driven inventory system
+- Turn based combat through async event driven architecture
+- Modular event driven UI system
+
+`Unity` `C#`
+
+---
+
+### 🚓 VR Driving Simulator
+Developed with local law enforcement to evaluate decision-making in high-pressure scenarios.
+- Built **traffic and pedestrian AI** systems and integrated a custom driving rig
+- Created a **modular driving system** designed for reuse across future simulations
+- Integrated **D-BOX actuators** for haptic feedback and realism
+- Built instructor-triggered scenarios and VR interactions (walkie-talkies, MDT devices, sirens)
+- Collaborated with 3D modelers to integrate a vehicle closely matching real-world officer vehicles
+
+`Unity` `C#` `VR` `AI` `Haptics`
+
+---
+
+### 📋 Task Titans: Project Management VR Games
+A suite of three mini-games built with a project-management client to reinforce core PM principles.
+- Integrated the games with the client **LMS**, connecting high scores to learning goals
+- Created AI enemies with distinct behaviors, a configurable word-bank system, a companion AI, and a quest system
+- Provided junior developers with technical direction through written instructions, pseudocode, and implementation guidance
+
+`Unity` `C#` `VR` `AI` `LMS Integration`
+
+---
+
+### 👁️ MPDepth
+AR research tooling for vision-science experiments.
+- Developed iOS AR applications for vision-science experiments and supported App Store updates
+- Built networking functionality enabling multiple users to join video calls using **3D model avatars**
+
+`Unity` `C#` `iOS` `AR` `Networking`
+
+---
+
+## 🛠️ Technical Skills
+
+| Area | Skills |
+|------|--------|
+| **Game Development** | Unity · C# · C++ · Gameplay Systems · Systems Design · Scriptable Objects · Event-Driven Architecture · AI · Networking · Performance Optimization |
+| **XR & Platforms** | Virtual Reality · Augmented Reality · Meta Quest · iOS · Windows |
+| **Professional** | Technical Documentation · Client Consultation · Cross-Functional Collaboration · Technical Leadership |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Sujan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sujansooriyakumar&show_icons=true&theme=tokyonight&hide_border=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sujansooriyakumar&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 📫 Let's Connect
+
+I'm always happy to talk about VR/XR, game systems design, or teaching game development.
+
+📧 **[sujan.sooriyakumar@gmail.com](mailto:sujan.sooriyakumar@gmail.com)**
+
+<div align="center">
+
+⭐ *Thanks for stopping by!* ⭐
+
+</div>
