@@ -103,7 +103,7 @@ An independently developed turn-based RPG, built from the ground up. It's a pers
 -->
 
 ---
-### 🔥 Fire Sale · First-Person Parkour Runner
+### 🔥 [Fire Sale · First-Person Parkour Runner](https://github.com/sujansooriyakumar/AGJ2026)
 ![Game Jam](https://img.shields.io/badge/Alberta%20Game%20Jam-2026-red?style=flat-square)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
