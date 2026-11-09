@@ -115,6 +115,7 @@ A fast-paced, first-person parkour game built for **Alberta Game Jam 2026**. Cha
 - ⏱️ **Built in a jam timeframe:** designed, scoped, and shipped within the jam's time limit
 
 [**Play / View the project →**](https://sujansooriyakumar.itch.io/fire-sale)
+
 [**View the repo →**](https://github.com/sujansooriyakumar/AGJ2026)
 
 <!-- Add a gameplay GIF here:
