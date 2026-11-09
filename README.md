@@ -103,7 +103,25 @@ An independently developed turn-based RPG, built from the ground up. It's a pers
 -->
 
 ---
+### 🔥 Fire Sale · First-Person Parkour Runner
+![Game Jam](https://img.shields.io/badge/Alberta%20Game%20Jam-2026-red?style=flat-square)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 
+A fast-paced, first-person parkour game built for **Alberta Game Jam 2026**. Chain jumps, slides, and wall runs through an endless, procedurally generated course where no two runs play the same.
+
+- 🏃 **First-person parkour movement:** responsive, momentum-driven traversal designed to feel fluid at speed
+- ♾️ **Procedural infinite level generation:** the course builds itself ahead of the player, so every run is different
+- ⏱️ **Built in a jam timeframe:** designed, scoped, and shipped within the jam's time limit
+
+[**Play / View the project →**](https://sujansooriyakumar.itch.io/fire-sale)
+[**View the repo →**](https://github.com/sujansooriyakumar/AGJ2026)
+
+<!-- Add a gameplay GIF here:
+<img src="PATH_TO_GIF" width="600" alt="Fire Sale gameplay">
+-->
+
+---
 ---
 
 ### 🚓 VR Driving Simulator
