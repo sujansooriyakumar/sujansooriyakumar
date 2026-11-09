@@ -136,20 +136,10 @@ AR research tooling for vision-science experiments.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Sujan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sujansooriyakumar&show_icons=true&theme=tokyonight&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sujansooriyakumar&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
 
 ## 📫 Let's Connect
 
-I'm always happy to talk about VR/XR, game systems design, or teaching game development.
+I'm always happy to talk about all things game development.
 
 📧 **[sujan.sooriyakumar@gmail.com](mailto:sujan.sooriyakumar@gmail.com)**
 
