@@ -85,7 +85,7 @@ My background spans **Scriptable Object pipelines, event-driven architecture, ga
 
 ## 🚀 Project Highlights
 
-### ⚡ \[WIP\] [Project Brotherhood - Turn Based RPG](https://github.com/sujansooriyakumar/SOTB)An independently developed turn based RPG, built from the ground up.
+### ⚡ \[WIP\] [Project Brotherhood - Turn Based RPG](https://github.com/sujansooriyakumar/SOTB) An independently developed turn based RPG, built from the ground up.
 - Scriptable Object driven inventory system
 - Turn based combat through async event driven architecture
 - Modular event driven UI system
