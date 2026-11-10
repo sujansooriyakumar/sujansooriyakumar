@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Sujan Sooriyakumar 👋
+# Hi, I'm Sujan Sooriyakumar
 
 ### Unity / C# Developer · Systems Design · VR & XR · Game Development Instructor
 
@@ -20,7 +20,7 @@
 
 ---
 
-## 🎮 About Me
+## About Me
 
 I'm a Unity/C# developer who specializes in **systems design and interactive applications**. I've led VR projects for industry clients, shipped titles to the **Meta Quest Store**, and now teach the next generation of game developers.
 
@@ -28,7 +28,7 @@ My background spans **Scriptable Object pipelines, event-driven architecture, ga
 
 ---
 
-## Experience
+#Experience
 
 | Role | Organization | Dates |
 |------|--------------|-------|
@@ -85,7 +85,7 @@ My background spans **Scriptable Object pipelines, event-driven architecture, ga
 
 ## Project Highlights
 
-### ⚡ [Project Brotherhood](https://github.com/sujansooriyakumar/SOTB) · Turn-Based RPG
+### [Project Brotherhood](https://github.com/sujansooriyakumar/SOTB) · Turn-Based RPG
 ![Status](https://img.shields.io/badge/status-WIP-orange?style=flat-square)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
