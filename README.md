@@ -28,7 +28,7 @@ My background spans **Scriptable Object pipelines, event-driven architecture, ga
 
 ---
 
-## 💼 Experience
+## Experience
 
 | Role | Organization | Dates |
 |------|--------------|-------|
@@ -38,7 +38,7 @@ My background spans **Scriptable Object pipelines, event-driven architecture, ga
 | **Unity Developer** | York University, BioMotion Lab | Oct 2021 – Oct 2022 |
 
 <details>
-<summary><b>🎓 Game Development Instructor · NAIT</b></summary>
+<summary><b>Game Development Instructor · NAIT</b></summary>
 <br>
 
 - Teach core game design principles: game loops, design pillars, and engaging player experiences
@@ -49,7 +49,7 @@ My background spans **Scriptable Object pipelines, event-driven architecture, ga
 </details>
 
 <details>
-<summary><b>🥽 Senior Unity Developer · Lethbridge Polytechnic (STARTC)</b></summary>
+<summary><b>Senior Unity Developer · Lethbridge Polytechnic (STARTC)</b></summary>
 <br>
 
 - Led development of numerous Unity-based VR projects for industry applications
@@ -62,7 +62,7 @@ My background spans **Scriptable Object pipelines, event-driven architecture, ga
 </details>
 
 <details>
-<summary><b>📱 Unity Developer · Gata Games</b></summary>
+<summary><b>Unity Developer · Gata Games</b></summary>
 <br>
 
 - Implemented and enhanced game systems while maintaining design intent
@@ -72,7 +72,7 @@ My background spans **Scriptable Object pipelines, event-driven architecture, ga
 </details>
 
 <details>
-<summary><b>🔬 Unity Developer · York University BioMotion Lab</b></summary>
+<summary><b>Unity Developer · York University BioMotion Lab</b></summary>
 <br>
 
 - Developed AR and VR applications for Windows and iOS using Unity
@@ -83,7 +83,7 @@ My background spans **Scriptable Object pipelines, event-driven architecture, ga
 
 ---
 
-## 🚀 Project Highlights
+## Project Highlights
 
 ### ⚡ [Project Brotherhood](https://github.com/sujansooriyakumar/SOTB) · Turn-Based RPG
 ![Status](https://img.shields.io/badge/status-WIP-orange?style=flat-square)
@@ -92,9 +92,9 @@ My background spans **Scriptable Object pipelines, event-driven architecture, ga
 
 An independently developed turn-based RPG, built from the ground up. It's a personal sandbox for the architecture patterns I use professionally, with every system designed to be modular, data-driven, and easy to extend.
 
-- 🎒 **Data-driven inventory:** built on a Scriptable Object pipeline, so designers can add items without touching code
-- ⚔️ **Async, event-driven combat:** turn flow runs through asynchronous events, keeping battle logic decoupled from presentation
-- 🧩 **Modular UI:** event-driven UI that reacts to game state instead of polling it, so screens stay independent and reusable
+- **Data-driven inventory:** built on a Scriptable Object pipeline, so designers can add items without touching code
+- **Async, event-driven combat:** turn flow runs through asynchronous events, keeping battle logic decoupled from presentation
+- **Modular UI:** event-driven UI that reacts to game state instead of polling it, so screens stay independent and reusable
 
 [**View the repo →**](https://github.com/sujansooriyakumar/SOTB)
 
@@ -103,16 +103,16 @@ An independently developed turn-based RPG, built from the ground up. It's a pers
 -->
 
 ---
-### 🔥 [Fire Sale](https://github.com/sujansooriyakumar/AGJ2026) · First-Person Parkour Runner
+### [Fire Sale](https://github.com/sujansooriyakumar/AGJ2026) · First-Person Parkour Runner
 ![Game Jam](https://img.shields.io/badge/Alberta%20Game%20Jam-2026-red?style=flat-square)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 
 A fast-paced, first-person parkour game built for **Alberta Game Jam 2026**. Chain jumps, slides, and wall runs through an endless, procedurally generated course where no two runs play the same.
 
-- 🏃 **First-person parkour movement:** responsive, momentum-driven traversal designed to feel fluid at speed
-- ♾️ **Procedural infinite level generation:** the course builds itself ahead of the player, so every run is different
-- ⏱️ **Built in a jam timeframe:** designed, scoped, and shipped within the jam's time limit
+- **First-person parkour movement:** responsive, momentum-driven traversal designed to feel fluid at speed
+- **Procedural infinite level generation:** the course builds itself ahead of the player, so every run is different
+- **Built in a jam timeframe:** designed, scoped, and shipped within the jam's time limit
 
 [**Play / View the project →**](https://sujansooriyakumar.itch.io/fire-sale)
 
@@ -125,7 +125,7 @@ A fast-paced, first-person parkour game built for **Alberta Game Jam 2026**. Cha
 ---
 ---
 
-### 🚓 VR Driving Simulator
+### VR Driving Simulator
 Developed with local law enforcement to evaluate decision-making in high-pressure scenarios.
 - Built **traffic and pedestrian AI** systems and integrated a custom driving rig
 - Created a **modular driving system** designed for reuse across future simulations
@@ -137,7 +137,7 @@ Developed with local law enforcement to evaluate decision-making in high-pressur
 
 ---
 
-### 📋 Task Titans: Project Management VR Games
+### Task Titans: Project Management VR Games
 A suite of three mini-games built with a project-management client to reinforce core PM principles.
 - Integrated the games with the client **LMS**, connecting high scores to learning goals
 - Created AI enemies with distinct behaviors, a configurable word-bank system, a companion AI, and a quest system
@@ -147,7 +147,7 @@ A suite of three mini-games built with a project-management client to reinforce 
 
 ---
 
-### 👁️ MPDepth
+### MPDepth
 AR research tooling for vision-science experiments.
 - Developed iOS AR applications for vision-science experiments and supported App Store updates
 - Built networking functionality enabling multiple users to join video calls using **3D model avatars**
@@ -156,7 +156,7 @@ AR research tooling for vision-science experiments.
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 | Area | Skills |
 |------|--------|
@@ -167,7 +167,7 @@ AR research tooling for vision-science experiments.
 ---
 
 
-## 📫 Let's Connect
+## Let's Connect
 
 I'm always happy to talk about all things game development.
 
