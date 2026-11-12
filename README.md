@@ -137,7 +137,7 @@ Developed with local law enforcement to evaluate decision-making in high-pressur
 
 ---
 
-### Task Titans: Project Management VR Games
+### Project Management VR Games
 A suite of three mini-games built with a project-management client to reinforce core PM principles.
 - Integrated the games with the client **LMS**, connecting high scores to learning goals
 - Created AI enemies with distinct behaviors, a configurable word-bank system, a companion AI, and a quest system
